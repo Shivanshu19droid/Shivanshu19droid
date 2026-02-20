@@ -7,8 +7,8 @@
 <p align="center">
   📍 Raipur, India <br/>
   📧 shivanshumishra2003@gmail.com <br/>
-  🔗 <a href="https://www.linkedin.com/">LinkedIn</a> |
-  <a href="https://github.com/">GitHub</a>
+  🔗 <a href="www.linkedin.com/in/shivanshu-mishra-052492309">LinkedIn</a> |
+  <a href="https://leetcode.com/u/shivanshumishra_ai/">LeetCode</a>
 </p>
 
 ---
