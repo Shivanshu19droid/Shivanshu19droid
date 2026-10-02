@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me  
 
-I am an engineering graduate with a B.Tech in Computer Science, specializing in backend architecture, scalable full-stack web applications, and AI/ML systems. 
+I am an engineering graduate with a B.Tech in Computer Science, specializing in backend architecture, scalable full-stack web applications, and AI/ML systems[cite: 1]. 
 
 My core focus areas include:
 - Architecting high-performance backend systems with Node.js, Express, and PostgreSQL (Prisma/Supabase)[cite: 1]
